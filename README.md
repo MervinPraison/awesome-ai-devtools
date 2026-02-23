@@ -39,6 +39,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management. 
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
 ## Git Clients
 
