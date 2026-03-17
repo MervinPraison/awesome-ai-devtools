@@ -156,6 +156,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+- [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Micro Agent by Builder](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
