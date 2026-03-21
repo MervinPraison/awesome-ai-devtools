@@ -1,4 +1,4 @@
-# ⚡️🧑‍💻 Awesome AI-Powered Developer Tools
+⚡️🧑‍💻 Awesome AI-Powered Developer Tools
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
@@ -62,7 +62,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
+- [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex projects through a contextual understanding of your workflow.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [Wren AI](https://getwren.ai/oss) — SQL AI Agent to get results and insights faster by asking questions without writing SQL, and it's open-source!
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
@@ -306,6 +306,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Resources
 
+- [Skills Hub](https://skillshub.io) — Community-rated marketplace for GitHub Copilot, Cursor, and Claude AI coding instructions. Browse and share quality-scored `copilot-instructions.md`, `.cursorrules`, and `CLAUDE.md` configurations organized by tech stack.
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
