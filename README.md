@@ -81,7 +81,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Mysti](https://github.com/DeepMyst/Mysti) — Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate on solutions.
 - [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
-- [shadcn/studio MCP](https://shadcnstudio.com/mcp) - Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
+- [shadcn/studio MCP](https://shadcnstudio.com/mcp) — Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
+- [Blinky](https://github.com/seahyinghang8/blinky) — A debugging agent for VS Code that helps identify and fix backend errors, inspired by SWE-agent.
 
 ---
 
@@ -103,7 +104,14 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [AdaL](https://sylph.ai/) — Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.
 - [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
-- [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [Arctic](https://github.com/arctic-cli/interface) — A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [Devin](https://devin.ai/) — The first fully autonomous AI software engineer by Cognition. Handles entire development tasks end-to-end including planning, coding, debugging, and deployment with its own IDE, browser, and shell.
+- [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
+- [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
+- [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
+- [Micro Agent](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — AI-driven software development automation solution.
 
 ### CLI Utilities
 
@@ -186,6 +194,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
+- [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
+- [sudocode](https://sudocode.ai/) — A web-based chat assistant for generating projects, similar to Code Interpreter.
+- [Leap.new](https://leap.new/) — Builds functional apps with real backend services, APIs, and deploys to your cloud.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2.
+- [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+- [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ### Desktop Applications
 
@@ -233,6 +247,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [claude-pr-reviewer](https://github.com/indoor47/claude-pr-reviewer) - GitHub Action + CLI that uses Claude AI to automatically review pull requests, post inline comments, and report token costs. Supports strictness levels (lenient/balanced/strict). Zero dependencies, Python 3.8+.
 - [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
 - [CodeHawk](https://codehawk.crossgen-ai.com) — GitHub App that installs in seconds and reviews pull requests automatically, posting inline comments on bugs, security vulnerabilities, and logic errors.
+- [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
 
 ### CI/CD & Testing Automation
 
@@ -249,6 +264,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
+- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
+- [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 
 ---
 
@@ -256,31 +274,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### Multi-Agent Orchestration
 
-- [Devin](https://devin.ai/) — The first fully autonomous AI software engineer by Cognition. Handles entire development tasks end-to-end including planning, coding, debugging, and deployment with its own IDE, browser, and shell.
-- [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
-- [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
-- [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
-- [Blinky](https://github.com/seahyinghang8/blinky) — A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
-- [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
-- [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
-- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
-- [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
-- [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
-- [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
-- [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
-- [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
-- [Micro Agent by Builder](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
-- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
-- [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
-- [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface
-- [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
+- [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
-- [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
-- [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
-- [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
-- [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [Trellis](https://github.com/mindfold-ai/Trellis) — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
 - [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
 
@@ -288,6 +285,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
+- [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
+- [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
 
 ### Configuration & Context Management
 
@@ -303,6 +302,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Beacon](https://github.com/sagarmk/beacon-plugin) — Semantic code search plugin for Claude Code that combines embedding-based similarity with BM25 keyword matching. Indexes locally via Ollama and stores everything in SQLite.
 - [AgentsKB](https://agentskb.com) — Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.
 - [rule-gen](https://github.com/nedcodes-ok/rule-gen) — CLI tool that generates AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window to produce project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.
+- [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 
 ### Usage Analytics & Cost Tracking
 
