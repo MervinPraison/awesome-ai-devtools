@@ -35,7 +35,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Code Search & Understanding](#code-search--understanding)
 
 ### Resources
-- [Benchmarks & Evaluation](#benchmarks--evaluation)
 - [Rule Collections & Templates](#rule-collections--templates)
 
 ---
@@ -256,6 +255,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
+- [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
 
 ---
 
@@ -349,10 +349,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ---
 
 ## Resources
-
-### Benchmarks & Evaluation
-
-- [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
 
 ### Rule Collections & Templates
 
