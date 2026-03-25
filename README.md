@@ -6,36 +6,29 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 > Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) before submitting a PR.
 
 ## Categories
-
-### Development Environments
-- [AI-Native IDEs](#ai-native-ides)
-- [IDE Extensions](#ide-extensions)
-
-### Terminal
-- [Terminal Agents](#terminal-agents)
-- [CLI Utilities](#cli-utilities)
-
-### Web & Desktop
-- [Web-Based Tools](#web-based-tools)
-- [Desktop Applications](#desktop-applications)
-
-### Automated Workflows
-- [PR & Code Review Bots](#pr--code-review-bots)
-- [CI/CD & Testing Automation](#cicd--testing-automation)
-
-### Agent Infrastructure
-- [Multi-Agent Orchestration](#multi-agent-orchestration)
-- [Sandboxing & Isolation](#sandboxing--isolation)
-- [Configuration & Context Management](#configuration--context-management)
-- [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
-
-### Specialized Tools
-- [Git & Commit Helpers](#git--commit-helpers)
-- [Documentation Generation](#documentation-generation)
-- [Code Search & Understanding](#code-search--understanding)
-
-### Resources
-- [Rule Collections & Templates](#rule-collections--templates)
+- [Development Environments](#development-environments)
+  - [AI-Native IDEs](#ai-native-ides)
+  - [IDE Extensions](#ide-extensions)
+- [Terminal](#terminal)
+  - [Terminal Agents](#terminal-agents)
+  - [CLI Utilities](#cli-utilities)
+- [Web & Desktop](#web--desktop)
+  - [Web-Based Tools](#web-based-tools)
+  - [Desktop Applications](#desktop-applications)
+- [Automated Workflows](#automated-workflows)
+  - [PR & Code Review Bots](#pr--code-review-bots)
+  - [CI/CD & Testing Automation](#cicd--testing-automation)
+- [Agent Infrastructure](#agent-infrastructure)
+  - [Multi-Agent Orchestration](#multi-agent-orchestration)
+  - [Sandboxing & Isolation](#sandboxing--isolation)
+  - [Configuration & Context Management](#configuration--context-management)
+  - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+- [Specialized Tools](#specialized-tools)
+  - [Git & Commit Helpers](#git--commit-helpers)
+  - [Documentation Generation](#documentation-generation)
+  - [Code Search & Understanding](#code-search--understanding)
+- [Resources](#resources)
+  - [Rule Collections & Templates](#rule-collections--templates)
 
 ---
 
