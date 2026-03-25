@@ -12,14 +12,13 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Terminal](#terminal)
   - [Terminal Agents](#terminal-agents)
   - [CLI Utilities](#cli-utilities)
-- [Web & Desktop](#web--desktop)
-  - [Web-Based Tools](#web-based-tools)
-    - [App Generators](#app-generators)
-    - [UI Generators](#ui-generators)
-    - [Code Assistants](#code-assistants)
-    - [Database & SQL](#database--sql)
-    - [Snippet & Utility Tools](#snippet--utility-tools)
-  - [Desktop Applications](#desktop-applications)
+- [Web-Based Tools](#web-based-tools)
+  - [App Generators](#app-generators)
+  - [UI Generators](#ui-generators)
+  - [Code Assistants](#code-assistants)
+  - [Database & SQL](#database--sql)
+  - [Snippet & Utility Tools](#snippet--utility-tools)
+- [Desktop Applications](#desktop-applications)
 - [Automated Workflows](#automated-workflows)
   - [PR & Code Review Bots](#pr--code-review-bots)
   - [CI/CD & Testing Automation](#cicd--testing-automation)
@@ -140,9 +139,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ---
 
-## Web & Desktop
-
-### Web-Based Tools
+## Web-Based Tools
 
 #### App Generators
 
@@ -220,7 +217,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
 
-### Desktop Applications
+---
+
+## Desktop Applications
 
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
