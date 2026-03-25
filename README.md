@@ -33,7 +33,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Documentation Generation](#documentation-generation)
   - [Code Search & Understanding](#code-search--understanding)
 - [Resources](#resources)
-  - [Rule Collections & Templates](#rule-collections--templates)
 
 ---
 
@@ -366,8 +365,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ---
 
 ## Resources
-
-### Rule Collections & Templates
 
 - [Skills Hub](https://skillshub.io) — Community-rated marketplace for GitHub Copilot, Cursor, and Claude AI coding instructions. Browse and share quality-scored `copilot-instructions.md`, `.cursorrules`, and `CLAUDE.md` configurations organized by tech stack.
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
