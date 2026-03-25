@@ -151,6 +151,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+- - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 
 ## Agents
 
