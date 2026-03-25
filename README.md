@@ -2,6 +2,10 @@
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
+> [!IMPORTANT]
+> Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) before submitting a PR.
+
+## Categories
 - [IDEs](#ides)
 - [Git Clients](#git-clients)
 - [Assistants](#assistants)
