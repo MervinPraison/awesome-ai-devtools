@@ -18,6 +18,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Code Assistants](#code-assistants)
   - [Database & SQL](#database--sql)
   - [Snippet & Utility Tools](#snippet--utility-tools)
+  - [ChatGPT Plugins](#chatgpt-plugins)
 - [Desktop Applications](#desktop-applications)
 - [Automated Workflows](#automated-workflows)
   - [PR & Code Review Bots](#pr--code-review-bots)
@@ -217,6 +218,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
 
+#### ChatGPT Plugins
+
+- [ChatWithGit](https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
+- [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
+
 ---
 
 ## Desktop Applications
@@ -370,5 +376,3 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
 - [AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs) — 198 production-ready AI engineering resources: prompt frameworks, multi-agent configs, MCP setups, RAG pipelines, and automation scripts for Claude Code, Cursor, GPT-5, Copilot, and more. Free samples included.
-- [ChatWithGit](https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
-- [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
