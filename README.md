@@ -271,6 +271,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
 - [CodeHawk](https://codehawk.crossgen-ai.com) — GitHub App that installs in seconds and reviews pull requests automatically, posting inline comments on bugs, security vulnerabilities, and logic errors.
 - [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
+- [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed. [Source](https://github.com/Elifterminal/pr-triage-web)
 
 ### CI/CD & Testing Automation
 
