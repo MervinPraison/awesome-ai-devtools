@@ -151,7 +151,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
-- [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [sudocode](https://sudocode.ai/) — A web-based chat assistant for generating projects, similar to Code Interpreter.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
