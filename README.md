@@ -40,39 +40,40 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### AI-Native IDEs
 
-- [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
-- [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
-- [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
+- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
+- [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
+- [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
+- [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+- [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
+- [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
+- [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
+- [Mutable](https://github.com/mutableai/monitors4codegen) — Web-based IDE, integrated with a chatbot and GitHub.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
-- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
-- [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
-- [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
-- [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### IDE Extensions
 
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
-- [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
+- [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
+- [Supermaven](https://supermaven.com/) — VS Code extension for autocomplete with 300,000-token context window.
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) — AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA. Amazon Q Developer IDE plugin has a number of Agents that can also scan code to highlight and define security issues (/review), write documentation (/doc), write unit tests (/test), and help you upgrade to later versions of Java (/transform) (formerly known as Amazon CodeWhisperer)
+- [JetBrains AI](https://www.jetbrains.com/ai/) — AI assistant available in all JetBrains IDEs.
+- [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
+- [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Blackbox AI](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [CodeGeeX](https://codegeex.cn/) — Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
 - [Quack AI](https://www.quackai.com/) — VS Code extension for adhering to project coding guidelines.
-- [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
-- [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [AskCodi](https://www.askcodi.com/) — AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
 - [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.
-- [JetBrains AI](https://www.jetbrains.com/ai/) — AI assistant available in all JetBrains IDEs.
 - [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
 - [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.
 - [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI generated documentation. VSCode, Jetbrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm, PhPStorm
-- [Supermaven](https://supermaven.com/) — VS Code extension for autocomplete with 300,000-token context window.
-- [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) — AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA. Amazon Q Developer IDE plugin has a number of Agents that can also scan code to highlight and define security issues (/review), write documentation (/doc), write unit tests (/test), and help you upgrade to later versions of Java (/transform) (formerly known as Amazon CodeWhisperer)
 - [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) — Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
@@ -89,20 +90,23 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### Terminal Agents
 
+- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [OpenAI Codex CLI](https://openai.com/codex/) — OpenAI's official lightweight coding agent that runs in your terminal. Executes code, manipulates files, and iterates with the user. Fully open-source with support for multiple AI providers.
+- [Aider](https://aider.chat/) — Popular CLI assistant and agent that generates changes and commits to repositories. Supports multiple LLM providers with built-in benchmarks. 25k+ GitHub stars.
+- [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
+- [Devin](https://devin.ai/) — The first fully autonomous AI software engineer by Cognition. Handles entire development tasks end-to-end including planning, coding, debugging, and deployment with its own IDE, browser, and shell.
 - [Gemini CLI](https://geminicli.com/) — Google's open-source AI agent for the command line. Features agentic capabilities, MCP support, shell integration, and seamless access to Gemini models with a generous free tier.
 - [Cursor CLI](https://cursor.com/cli) — Cursor's command-line interface bringing AI-powered coding to the terminal. Integrates with Cursor's AI capabilities for code generation and editing from the command line.
-- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
-- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
-- [Aider](https://aider.chat/) — Popular CLI assistant and agent that generates changes and commits to repositories. Supports multiple LLM providers with built-in benchmarks. 25k+ GitHub stars.
-- [Plandex](https://plandex.ai/) — Terminal-based AI coding agent for complex, multi-file tasks. Features built-in version control, iterative planning, and context management across large codebases.
+- [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) — AI developer that writes entire scalable apps from scratch while the developer oversees the implementation. Creates apps step-by-step with human collaboration. 30k+ GitHub stars.
 - [Goose](https://block.github.io/goose/) — Block's open-source autonomous AI coding agent that operates on your machine. Extensible with MCP, works with multiple LLM providers, and handles complex multi-step development tasks.
+- [Plandex](https://plandex.ai/) — Terminal-based AI coding agent for complex, multi-file tasks. Features built-in version control, iterative planning, and context management across large codebases.
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
+- [Cosine](https://cosine.sh/) — Agentic AI software engineer for enterprise codebases. Handles bug fixes, feature development, refactors, and PR generation with air-gapped and VPC deployment options.
+- [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [AdaL](https://sylph.ai/) — Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.
 - [Axon](https://github.com/kill136/axon) — Open-source AI coding assistant with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features Monaco editor, self-modification capabilities, and multiple AI provider integrations.
 - [Arctic](https://github.com/arctic-cli/interface) — A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
-- [Cosine](https://cosine.sh/) — Agentic AI software engineer for enterprise codebases. Handles bug fixes, feature development, refactors, and PR generation with air-gapped and VPC deployment options.
-- [Devin](https://devin.ai/) — The first fully autonomous AI software engineer by Cognition. Handles entire development tasks end-to-end including planning, coding, debugging, and deployment with its own IDE, browser, and shell.
-- [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
 - [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
 - [Micro Agent](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
 
@@ -206,12 +210,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Desktop Applications
 
-- [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
+- [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+- [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [CCHub](https://github.com/Moresl/cchub) — Claude Code ecosystem management platform with visual GUI for MCP server management, skill management, multi-config switching, custom slash commands, and JSON config editing. Built with Tauri v2.
 - [Mantra](https://mantra.gonewx.com) — Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.
-- [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 - [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
@@ -222,6 +226,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### PR & Code Review Bots
 
+- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
+- [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
 - [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
 - [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for Github and Gitlab that improves over time based on user comments
