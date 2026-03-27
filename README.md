@@ -299,6 +299,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### Multi-Agent Orchestration
 
+- [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
+- [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
+- [Sidecar](https://github.com/marcus/sidecar) — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
