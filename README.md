@@ -153,7 +153,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [sudocode](https://sudocode.ai/) — A web-based chat assistant for generating projects, similar to Code Interpreter.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2.
-- [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+- [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 
 #### UI Generators
