@@ -106,7 +106,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AdaL](https://sylph.ai/) — Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.
 - [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
 - [Arctic](https://github.com/arctic-cli/interface) — A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
-- [Cosine](https://cosine.sh/) — Agentic AI software engineer for enterprise codebases. Handles bug fixes, feature development, refactors, and PR generation with support for air-gapped deployment. Formerly Buildt.
+- [Cosine](https://cosine.sh/) — Agentic AI software engineer for enterprise codebases. Handles bug fixes, feature development, refactors, and PR generation with air-gapped and VPC deployment options.
 - [Devin](https://devin.ai/) — The first fully autonomous AI software engineer by Cognition. Handles entire development tasks end-to-end including planning, coding, debugging, and deployment with its own IDE, browser, and shell.
 - [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
 - [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
@@ -304,7 +304,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Trellis](https://github.com/mindfold-ai/Trellis) — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
 - [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
-- [Vibe Kanban](https://bloop.ai/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking. Formerly Bloop.
+- [Vibe Kanban](https://bloop.ai/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
 
 ### Sandboxing & Isolation
 
