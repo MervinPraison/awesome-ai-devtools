@@ -143,7 +143,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Mocha](https://getmocha.com/) — AI-powered no-code application builder for creating web apps without writing code.
 - [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-click deployment.
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
-- [Marblism](https://marblism.com) — Generate a SaaS boilerplate from a prompt.
 - [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
