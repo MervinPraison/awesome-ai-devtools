@@ -40,7 +40,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### AI-Native IDEs
 
-IDEs built with AI at their core.
+Full development environments with AI-first architecture for code generation, chat, and debugging:
 
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
@@ -58,7 +58,7 @@ IDEs built with AI at their core.
 
 ### IDE Extensions
 
-AI plugins for VS Code, JetBrains, Neovim, and other editors.
+Plugins that add AI completion, chat, and refactoring to VS Code, JetBrains, Neovim, and other editors:
 
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
@@ -94,7 +94,7 @@ AI plugins for VS Code, JetBrains, Neovim, and other editors.
 
 ### Terminal Agents
 
-AI agents that write code and execute commands in the terminal.
+Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:
 
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [OpenAI Codex CLI](https://openai.com/codex/) — OpenAI's official lightweight coding agent that runs in your terminal. Executes code, manipulates files, and iterates with the user. Fully open-source with support for multiple AI providers.
@@ -118,7 +118,7 @@ AI agents that write code and execute commands in the terminal.
 
 ### CLI Utilities
 
-AI-enhanced command-line tools for commits, shell translation, and more.
+Lightweight CLI tools for AI-powered commit messages, shell translation, and workflow automation:
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
@@ -138,7 +138,7 @@ AI-enhanced command-line tools for commits, shell translation, and more.
 
 #### App Generators
 
-Build full-stack apps from natural language prompts.
+Platforms that scaffold and deploy full-stack applications from natural language prompts:
 
 - [Bolt.new](https://bolt.new) — AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly in the browser using WebContainers. Supports npm packages, Node.js servers, and third-party APIs.
 - [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek.
@@ -169,7 +169,7 @@ Build full-stack apps from natural language prompts.
 
 #### UI Generators
 
-Create UI components and mockups from prompts or designs.
+Tools that generate React components, mockups, and frontend code from text prompts or Figma designs:
 
 - [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
 - [Magic Patterns](https://www.magicpatterns.com/) — Prototype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.
@@ -185,7 +185,7 @@ Create UI components and mockups from prompts or designs.
 
 #### Code Assistants
 
-Web-based AI chat for code understanding and generation.
+Browser-based AI chat interfaces for code understanding, refactoring, and generation:
 
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VSCode, and JetBrains IDE's.
@@ -199,7 +199,7 @@ Web-based AI chat for code understanding and generation.
 
 #### Database & SQL
 
-Generate and optimize SQL queries with natural language.
+Tools that generate, explain, and optimize SQL queries from natural language:
 
 - [Wren AI](https://getwren.ai/oss) — SQL AI Agent to get results and insights faster by asking questions without writing SQL, and it's open-source!
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
@@ -207,7 +207,7 @@ Generate and optimize SQL queries with natural language.
 
 #### Snippet & Utility Tools
 
-Quick web tools for code generation, translation, and refactoring.
+Web utilities for quick code generation, language translation, and regex creation:
 
 - [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
 - [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
@@ -218,7 +218,7 @@ Quick web tools for code generation, translation, and refactoring.
 
 #### ChatGPT Plugins
 
-Extend ChatGPT with code search and repository context.
+Plugins that extend ChatGPT with GitHub search and codebase context:
 
 - [ChatWithGit](https://plugins.sdan.io/git) — Enables ChatGPT to search GitHub and return links to relevant repositories.
 - [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
@@ -227,7 +227,7 @@ Extend ChatGPT with code search and repository context.
 
 ## Desktop Applications
 
-Native apps for AI-powered development and agent management.
+Native macOS/Windows/Linux apps for AI coding, terminal enhancement, and agent orchestration:
 
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
@@ -246,7 +246,7 @@ Native apps for AI-powered development and agent management.
 
 ### PR & Code Review Bots
 
-Automated PR reviews with suggestions and issue detection.
+GitHub/GitLab integrations that automatically review PRs and suggest fixes:
 
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
@@ -277,7 +277,7 @@ Automated PR reviews with suggestions and issue detection.
 
 ### CI/CD & Testing Automation
 
-AI-powered test generation and CI/CD integration.
+Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
@@ -301,7 +301,7 @@ AI-powered test generation and CI/CD integration.
 
 ### Multi-Agent Orchestration
 
-Coordinate multiple AI agents working in parallel.
+Platforms for running multiple AI coding agents in parallel with git worktree isolation:
 
 - [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
 - [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
@@ -316,7 +316,7 @@ Coordinate multiple AI agents working in parallel.
 
 ### Sandboxing & Isolation
 
-Secure, isolated environments for running AI agents.
+Secure container and microVM environments for running AI agents with access control:
 
 - [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
@@ -325,7 +325,7 @@ Secure, isolated environments for running AI agents.
 
 ### Configuration & Context Management
 
-Manage agent configs, sync rules, and provide codebase context.
+Tools that sync .cursorrules, CLAUDE.md, and MCP configs across AI coding tools:
 
 - [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
 - [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) — Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.
@@ -345,7 +345,7 @@ Manage agent configs, sync rules, and provide codebase context.
 
 ### Usage Analytics & Cost Tracking
 
-Monitor token usage and API costs across AI tools.
+Dashboards and CLIs for monitoring token consumption and API costs across providers:
 
 - [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
@@ -361,7 +361,7 @@ Monitor token usage and API costs across AI tools.
 
 ### Git & Commit Helpers
 
-AI-generated commit messages and PR descriptions.
+Tools that generate commit messages and PR descriptions from diffs:
 
 - [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
@@ -370,7 +370,7 @@ AI-generated commit messages and PR descriptions.
 
 ### Documentation Generation
 
-Auto-generate docs, diagrams, and changelogs from code.
+Tools that generate READMEs, API docs, diagrams, and changelogs from source code:
 
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
 - [DocuPilot](https://docupilot-alpha.vercel.app) — GitHub App that auto-updates README, CHANGELOG, and API docs on every push using AI. [[GitHub](https://github.com/AkrMcmr/docupilot)]
@@ -382,7 +382,7 @@ Auto-generate docs, diagrams, and changelogs from code.
 
 ### Code Search & Understanding
 
-Semantic code search using natural language.
+Semantic search tools using embeddings to find code with natural language queries:
 
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included. [Source](https://github.com/keptlive/contextwire-mcp)
@@ -391,7 +391,7 @@ Semantic code search using natural language.
 
 ## Resources
 
-Guides, comparisons, and community collections for AI dev tools.
+Curated lists, comparison guides, and configuration templates for AI coding tools:
 
 - [Skills Hub](https://skillshub.io) — Community-rated marketplace for GitHub Copilot, Cursor, and Claude AI coding instructions. Browse and share quality-scored `copilot-instructions.md`, `.cursorrules`, and `CLAUDE.md` configurations organized by tech stack.
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
