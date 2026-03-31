@@ -14,9 +14,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Terminal Agents](#terminal-agents)
   - [CLI Utilities](#cli-utilities)
 - [Web-Based Tools](#web-based-tools)
-  - [App Generators](#app-generators)
+  - [App Builders](#app-builders)
   - [UI Generators](#ui-generators)
-  - [Code Assistants](#code-assistants)
+  - [Coding Agents](#coding-agents)
+  - [Codebase Intelligence](#codebase-intelligence)
   - [Database & SQL](#database--sql)
   - [Snippet & Utility Tools](#snippet--utility-tools)
   - [ChatGPT Plugins](#chatgpt-plugins)
@@ -137,7 +138,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 ## Web-Based Tools
 
-#### App Generators
+#### App Builders
 
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
 
@@ -162,10 +163,6 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
-- [sudocode](https://sudocode.ai/) — A web-based chat assistant for generating projects, similar to Code Interpreter.
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2.
-- [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
-- [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
 
 #### UI Generators
@@ -183,10 +180,20 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [CSS Picker](https://csspicker.dev/) — Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
+- [Telex](https://telex.automatica.ai/) — AI-powered WordPress block and theme generator. Describe your idea and it builds WordPress blocks for you.
 
-#### Code Assistants
+#### Coding Agents
 
-Browser-based AI chat interfaces for code understanding, refactoring, and generation:
+Autonomous AI agents that work on existing codebases to fix bugs, refactor code, and create pull requests:
+
+- [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
+- [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
+- [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Python framework for creating AI agents by combining tools, prompts, and models with RAG capabilities.
+
+#### Codebase Intelligence
+
+Tools for understanding, navigating, and getting answers about existing codebases:
 
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VSCode, and JetBrains IDE's.
@@ -195,8 +202,7 @@ Browser-based AI chat interfaces for code understanding, refactoring, and genera
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
-- [Telex](https://telex.automattic.ai/) — AI-powered WordPress block and theme generator. Describe your idea and it builds WordPress blocks for you.
-- [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+- [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
 
 #### Database & SQL
 
