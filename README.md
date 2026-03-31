@@ -40,7 +40,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### AI-Native IDEs
 
-Full development environments built with AI at the core for code generation, chat, and debugging:
+Full development environments with AI for code generation, chat, and debugging:
 
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
@@ -316,7 +316,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 
 ### Sandboxing & Isolation
 
-Secure isolated environments for running AI agents with controlled access:
+Secure isolated environments for running AI coding agents with controlled access:
 
 - [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
@@ -345,7 +345,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 
 ### Usage Analytics & Cost Tracking
 
-Dashboards and tools for monitoring token usage and API costs across AI providers:
+Tools for monitoring token usage and API costs across AI providers:
 
 - [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
