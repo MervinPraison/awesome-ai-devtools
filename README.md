@@ -22,6 +22,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Snippet & Utility Tools](#snippet--utility-tools)
   - [ChatGPT Plugins](#chatgpt-plugins)
 - [Desktop Applications](#desktop-applications)
+- [Mobile Applications](#mobile-applications)
 - [Automated Workflows](#automated-workflows)
   - [PR & Code Review Bots](#pr--code-review-bots)
   - [CI/CD & Testing Automation](#cicd--testing-automation)
@@ -249,6 +250,13 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
+
+---
+
+## Mobile Applications
+
+Mobile apps for running AI coding agents and accessing dev environments on the go:
+
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 
 ---
