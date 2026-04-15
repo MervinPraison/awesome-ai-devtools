@@ -337,6 +337,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
 - [Bernstein](https://github.com/chernistry/bernstein) — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
 - [Kagan](https://github.com/kagan-sh/kagan) — Open-source AI orchestration board with a VS Code extension for planning, running, and reviewing coding agent tasks.
+- [CueAPI](https://github.com/cueapi/cueapi-core) — Open-source scheduler and verification gate for AI coding agents. Cues trigger agent runs on a schedule, and each execution must return evidence (external ID, result URL, or artifact) before the cycle closes. Works with Claude Code, Codex, and Gemini CLI via SDK. Self-hosted, Apache-2.0.
 
 ### Sandboxing & Isolation
 
