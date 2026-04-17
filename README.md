@@ -139,6 +139,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [resume-cli](https://github.com/inevolin/resume-cli) — CLI that aggregates recent sessions from Claude Code, Codex, and GitHub Copilot in one place. Pick a session and resume it in any of the three tools.
+- [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
 
 ---
 
