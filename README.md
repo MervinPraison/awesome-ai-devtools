@@ -157,6 +157,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
 - [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model for building applications using open source LLMs.
+- [Forge](https://forge-web.rebaselabs.online) [(Source)](https://github.com/sudo-rebase/forge) — AI-powered full-stack app creator that generates Next.js apps from natural language. BYOK model — use your own Anthropic, OpenAI, or Google AI key with no markup. Multi-stage pipeline with auto-fix and TypeScript strict mode.
 - [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
 - [Mocha](https://getmocha.com/) — AI-powered no-code application builder for creating web apps without writing code.
 - [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-click deployment.
