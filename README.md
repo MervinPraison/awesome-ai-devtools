@@ -89,6 +89,8 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Mysti](https://github.com/DeepMyst/Mysti) — Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate on solutions.
 - [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
+- [shadcn/studio MCP](https://shadcnstudio.com/mcp) - Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with bias scoring, live market data, AI options pricing, and balanced news synthesis via MCP. ([Website](https://heliumtrades.com/mcp-page/))
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) — Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
 - [Sweep](https://sweep.dev/) — AI coding plugin for JetBrains IDEs with autocomplete, codebase indexing, and context-aware suggestions. Uses proprietary LLMs with zero data retention.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
