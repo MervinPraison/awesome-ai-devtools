@@ -139,6 +139,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [resume-cli](https://github.com/inevolin/resume-cli) — CLI that aggregates recent sessions from Claude Code, Codex, and GitHub Copilot in one place. Pick a session and resume it in any of the three tools.
+- [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
 
 ---
 
@@ -157,6 +158,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
 - [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model for building applications using open source LLMs.
+- [Forge](https://forge-web.rebaselabs.online) [(Source)](https://github.com/sudo-rebase/forge) — AI-powered full-stack app creator that generates Next.js apps from natural language. BYOK model — use your own Anthropic, OpenAI, or Google AI key with no markup. Multi-stage pipeline with auto-fix and TypeScript strict mode.
 - [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
 - [Mocha](https://getmocha.com/) — AI-powered no-code application builder for creating web apps without writing code.
 - [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-click deployment.
@@ -338,8 +340,10 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
 - [Bernstein](https://github.com/chernistry/bernstein) — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
 - [Kagan](https://github.com/kagan-sh/kagan) — Open-source AI orchestration board with a VS Code extension for planning, running, and reviewing coding agent tasks.
+- [CueAPI](https://github.com/cueapi/cueapi-core) — Open-source scheduler and verification gate for AI coding agents. Cues trigger agent runs on a schedule, and each execution must return evidence (external ID, result URL, or artifact) before the cycle closes. Works with Claude Code, Codex, and Gemini CLI via SDK. Self-hosted, Apache-2.0.
 - [pi-ralph](https://github.com/samfoy/pi-ralph) — Multi-agent orchestration loops for the pi coding agent. Runs autonomous implementation, review, and debugging cycles with configurable roles and loop chaining.
 - [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
+- [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 
 ### Sandboxing & Isolation
 
@@ -385,6 +389,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [claude-lens](https://github.com/Astro-Han/claude-lens) — Lightweight Bash + jq statusline for Claude Code with rate limit pace tracking. Compares burn rate to time remaining in 5h/7d windows, showing whether usage is ahead or behind sustainable pace. Single file, zero dependencies beyond jq.
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
+- [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 
 ---
 
