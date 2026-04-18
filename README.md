@@ -120,6 +120,8 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Arctic](https://github.com/arctic-cli/interface) — A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 - [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
 - [Micro Agent](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
+- [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
+- [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
 
 ### CLI Utilities
 
@@ -137,6 +139,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [resume-cli](https://github.com/inevolin/resume-cli) — CLI that aggregates recent sessions from Claude Code, Codex, and GitHub Copilot in one place. Pick a session and resume it in any of the three tools.
+- [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
 
 ---
 
@@ -155,6 +158,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
 - [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model for building applications using open source LLMs.
+- [Forge](https://forge-web.rebaselabs.online) [(Source)](https://github.com/sudo-rebase/forge) — AI-powered full-stack app creator that generates Next.js apps from natural language. BYOK model — use your own Anthropic, OpenAI, or Google AI key with no markup. Multi-stage pipeline with auto-fix and TypeScript strict mode.
 - [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
 - [Mocha](https://getmocha.com/) — AI-powered no-code application builder for creating web apps without writing code.
 - [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-click deployment.
@@ -308,7 +312,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [Qodo](https://www.qodo.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)
 - [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
-- [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
+- [KushoAI](https://kusho.ai/role-wise-use-case/software-engineers) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
@@ -337,6 +341,10 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [Bernstein](https://github.com/chernistry/bernstein) — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
 - [Kagan](https://github.com/kagan-sh/kagan) — Open-source AI orchestration board with a VS Code extension for planning, running, and reviewing coding agent tasks.
 - [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted AI runtime that orchestrates Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid with heartbeats, schedules, delegation, runtime skills, and an org chart view. Ships as a desktop app (Electron) and CLI. MIT licensed, TypeScript.
+- [CueAPI](https://github.com/cueapi/cueapi-core) — Open-source scheduler and verification gate for AI coding agents. Cues trigger agent runs on a schedule, and each execution must return evidence (external ID, result URL, or artifact) before the cycle closes. Works with Claude Code, Codex, and Gemini CLI via SDK. Self-hosted, Apache-2.0.
+- [pi-ralph](https://github.com/samfoy/pi-ralph) — Multi-agent orchestration loops for the pi coding agent. Runs autonomous implementation, review, and debugging cycles with configurable roles and loop chaining.
+- [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
+- [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 
 ### Sandboxing & Isolation
 
@@ -365,10 +373,13 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [ContextMCP](https://contextmcp.ai) — Self-hosted semantic search across documentation from various sources for AI agents.
 - [Beacon](https://github.com/sagarmk/beacon-plugin) — Semantic code search plugin for Claude Code that combines embedding-based similarity with BM25 keyword matching. Indexes locally via Ollama and stores everything in SQLite.
 - [AgentsKB](https://agentskb.com) — Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.
+- [Not Human Search](https://nothumansearch.ai) — Search engine for the agentic web. Indexes 2,000+ agent-ready sites ranked 0–100 on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json, structured API). Itself an MCP server with 8 tools (search_agents, verify_mcp, list_categories, get_top_sites, etc.). One-line install: `curl -fsSL https://nothumansearch.ai/install | sh`. Free, no auth, open data.
 - [rule-gen](https://github.com/nedcodes-ok/rule-gen) — CLI tool that generates AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window to produce project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
+- [pi-steering-hooks](https://github.com/samfoy/pi-steering-hooks) — Deterministic before-tool-call guardrails for the pi coding agent. Enforces rules (no force push, conventional commits, etc.) via regex pattern matching on tool inputs — zero tokens, 100% reliable. Custom rules via JSON config with override escape hatch.
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
+- [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
 
 ### Usage Analytics & Cost Tracking
 
@@ -381,6 +392,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [claude-lens](https://github.com/Astro-Han/claude-lens) — Lightweight Bash + jq statusline for Claude Code with rate limit pace tracking. Compares burn rate to time remaining in 5h/7d windows, showing whether usage is ahead or behind sustainable pace. Single file, zero dependencies beyond jq.
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
+- [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 
 ---
 
