@@ -77,11 +77,11 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Quack AI](https://www.quackai.com/) — VS Code extension for adhering to project coding guidelines.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [AskCodi](https://www.askcodi.com/) — AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
-- [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.
+- [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one-click Vercel deployment and seamless Supabase integration.
 - [Ptah](https://marketplace.visualstudio.com/items?itemName=ptah-extensions.ptah-coding-orchestra) — Multi-provider AI coding orchestra for VS Code that connects to OpenRouter (200+ models), Kimi, GLM, Copilot, Gemini, and Codex from one interface. Features CLI agent orchestration, a built-in MCP server, plugin ecosystem, and workspace intelligence. Open source (FSL-1.1-MIT).
 - [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
-- [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.
-- [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI generated documentation. VS Code, JetBrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm.
+- [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, Vim and Sublime.
+- [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI-generated documentation. VS Code, JetBrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm.
 - [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) — Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
@@ -130,7 +130,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
-- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (e.g., `ai Tell me the free space on disk`)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
@@ -155,7 +155,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek.
 - [Lovable](https://lovable.dev/) — AI-powered full-stack app development platform that converts natural language descriptions or designs into fully functional applications with built-in deployment and GitHub integration.
 - [Co.dev](https://www.co.dev/) — AI-powered app development platform that helps build and deploy full-stack applications.
-- [Capacity](https://capacity.so) — AI powered full-stack web app development that turns prompts in natural language into fully functional web applications.
+- [Capacity](https://capacity.so) — AI-powered full-stack web app development that turns prompts in natural language into fully functional web applications.
 - [Leap.new](https://leap.new/) — Builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
@@ -184,10 +184,10 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [Tempo](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Google Stitch](https://stitch.withgoogle.com/) — Google's AI-powered design tool for creating UI designs. Formerly Galileo AI.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
-- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
+- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, and provides production-ready front-end code.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS Code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
-- [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
+- [Frontly](https://fronty.com/) — Converts uploaded images to HTML/CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [CSS Picker](https://csspicker.dev/) — Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
 - [Telex](https://telex.automatica.ai/) — AI-powered WordPress block and theme generator. Describe your idea and it builds WordPress blocks for you.
@@ -211,7 +211,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
 
 #### Database & SQL
@@ -280,7 +280,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
 - [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
-- [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments
+- [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
@@ -288,9 +288,9 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
-- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
+- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
-- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
+- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
@@ -307,7 +307,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
-- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
+- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
