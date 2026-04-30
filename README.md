@@ -214,6 +214,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
+- [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
 
 #### Database & SQL
 
