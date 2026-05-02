@@ -234,6 +234,9 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [EnigmaEasel](https://enigmaeasel.com) — AI-powered engine for generating accessible color palettes and systems, OKLCH gradients, and font pairings with one-click Tailwind CSS and SCSS exports.
+- [JSONFix](https://jsonfix-lake.vercel.app/) — AI-powered JSON repair tool that instantly fixes malformed JSON with missing quotes, trailing commas, and syntax errors.
+- [CronAI](https://cronai-nu.vercel.app/) — Converts plain English schedule descriptions into correct cron expressions using AI.
+- [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
 
 
 #### ChatGPT Plugins
