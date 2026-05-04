@@ -77,11 +77,11 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Quack AI](https://www.quackai.com/) — VS Code extension for adhering to project coding guidelines.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [AskCodi](https://www.askcodi.com/) — AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
-- [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.
+- [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one-click Vercel deployment and seamless Supabase integration.
 - [Ptah](https://marketplace.visualstudio.com/items?itemName=ptah-extensions.ptah-coding-orchestra) — Multi-provider AI coding orchestra for VS Code that connects to OpenRouter (200+ models), Kimi, GLM, Copilot, Gemini, and Codex from one interface. Features CLI agent orchestration, a built-in MCP server, plugin ecosystem, and workspace intelligence. Open source (FSL-1.1-MIT).
 - [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
-- [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.
-- [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI generated documentation. VS Code, JetBrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm.
+- [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, Vim and Sublime.
+- [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI-generated documentation. VS Code, JetBrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm.
 - [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) — Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
@@ -93,6 +93,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) — Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
 - [Sweep](https://sweep.dev/) — AI coding plugin for JetBrains IDEs with autocomplete, codebase indexing, and context-aware suggestions. Uses proprietary LLMs with zero data retention.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
+- [Shadcn Space MCP](https://shadcnspace.com/mcp) — Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
 
 ---
 
@@ -130,7 +131,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
-- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (e.g., `ai Tell me the free space on disk`)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
@@ -154,8 +155,9 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Bolt.new](https://bolt.new) — AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly in the browser using WebContainers. Supports npm packages, Node.js servers, and third-party APIs.
 - [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek.
 - [Lovable](https://lovable.dev/) — AI-powered full-stack app development platform that converts natural language descriptions or designs into fully functional applications with built-in deployment and GitHub integration.
+- [Backgrounder.dev](https://backgrounder.dev/) — Free interface for AI coding agents (Claude Code, Codex, Gemini, Goose, Pi) running as isolated background processes. Supports switching between agents, branching chats, conflict resolution and scheduled runs.
 - [Co.dev](https://www.co.dev/) — AI-powered app development platform that helps build and deploy full-stack applications.
-- [Capacity](https://capacity.so) — AI powered full-stack web app development that turns prompts in natural language into fully functional web applications.
+- [Capacity](https://capacity.so) — AI-powered full-stack web app development that turns prompts in natural language into fully functional web applications.
 - [Leap.new](https://leap.new/) — Builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
@@ -184,10 +186,10 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [Tempo](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Google Stitch](https://stitch.withgoogle.com/) — Google's AI-powered design tool for creating UI designs. Formerly Galileo AI.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
-- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
+- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, and provides production-ready front-end code.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS Code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
-- [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
+- [Frontly](https://fronty.com/) — Converts uploaded images to HTML/CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [CSS Picker](https://csspicker.dev/) — Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
 - [Telex](https://telex.automatica.ai/) — AI-powered WordPress block and theme generator. Describe your idea and it builds WordPress blocks for you.
@@ -211,8 +213,10 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
+- [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualiser: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally. `npm install -g grasp-mcp-server`
+- [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
 
 #### Database & SQL
 
@@ -232,6 +236,9 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [EnigmaEasel](https://enigmaeasel.com) — AI-powered engine for generating accessible color palettes and systems, OKLCH gradients, and font pairings with one-click Tailwind CSS and SCSS exports.
+- [JSONFix](https://jsonfix-lake.vercel.app/) — AI-powered JSON repair tool that instantly fixes malformed JSON with missing quotes, trailing commas, and syntax errors.
+- [CronAI](https://cronai-nu.vercel.app/) — Converts plain English schedule descriptions into correct cron expressions using AI.
+- [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
 
 
 #### ChatGPT Plugins
@@ -280,7 +287,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
 - [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
-- [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments
+- [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
@@ -288,9 +295,9 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
-- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
+- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
-- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
+- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
@@ -307,7 +314,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
-- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
+- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
@@ -337,7 +344,6 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [Vibe Kanban](https://vibekanban.com/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
 - [OpenASE](https://github.com/pacificstudio/openase) — Open-source ticket-driven platform for orchestrating Claude Code, Codex, and Gemini CLI agents across isolated workspaces and status-based workflows.
 - [Trellis](https://github.com/mindfold-ai/Trellis) — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
-- [Upstream Agents](https://upstreamagents.com/) — Run AI coding agents in isolated sandboxes connected to your GitHub repositories. Supports Claude Code, odex and OpenCode.
 - [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
@@ -365,6 +371,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
 - [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) — Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.
 - [ctxlint](https://github.com/YawLabs/ctxlint) — Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that catches stale paths, wrong commands, and token waste by validating against the real codebase.
+- [lean-ctx](https://github.com/yvgude/lean-ctx) — Open-source context runtime for AI coding agents. MCP server (optional shell hook) that compresses file reads, shell output, and codebase search to reduce token usage, often 60–99% on supported workflows. 46 tools, session caching, AST-aware compression for 18 languages, 90+ shell patterns. [Website](https://leanctx.com). Apache-2.0.
 - [Caliber](https://github.com/rely-ai-org/caliber) — Open-source CLI that scans your codebase and generates AI agent configs (CLAUDE.md, .cursorrules, skills, MCPs) for Claude Code, Cursor, and Codex. Scores your setup 0-100 and recommends MCP servers.
 - [vsync](https://github.com/nicepkg/vsync) — CLI tool that syncs Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion (JSON <-> TOML <-> JSONC).
 - [rule-porter](https://github.com/nedcodes-ok/rule-porter) — Zero-dependency CLI that converts AI IDE rule files between Cursor (.mdc), CLAUDE.md, AGENTS.md, Copilot, and Windsurf. Bidirectional with lossy-conversion warnings.
@@ -383,6 +390,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
+- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) — MCP server that bridges AI coding agents (Claude Code, Copilot, Codex) to multi-cluster Kubernetes APIs. Enables natural language queries across clusters, workload placement, policy enforcement, and real-time observability. CNCF Sandbox project.
 
 ### Usage Analytics & Cost Tracking
 
@@ -393,9 +401,11 @@ Tools for monitoring token usage and API costs across AI providers:
 - [Code Insights](https://github.com/melagiri/code-insights) — Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot Chat. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights.
 - [onWatch](https://github.com/onllm-dev/onwatch) — Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI Codex, GitHub Copilot, Synthetic, Z.ai, MiniMax, Antigravity). Background daemon with Material Design 3 web dashboard, ~15MB binary, <50MB RAM, zero telemetry.
 - [claude-lens](https://github.com/Astro-Han/claude-lens) — Lightweight Bash + jq statusline for Claude Code with rate limit pace tracking. Compares burn rate to time remaining in 5h/7d windows, showing whether usage is ahead or behind sustainable pace. Single file, zero dependencies beyond jq.
+- [cc-tempo](https://github.com/O0000-code/cc-tempo) — Claude Code statusline that parses transcript JSONL for active work time (excludes idle and interactive-tool waits), SubAgent speedup ratio, /clear-resilient PID timer, code-churn sparkline with trend arrow, and multi-instance detection. Bash + TypeScript CLI, MIT.
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
+- [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
 
 ---
 
